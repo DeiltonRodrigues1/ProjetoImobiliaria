@@ -1,7 +1,7 @@
 <apex:page controller="ImobiliariaController">
     <style>
         #conteudo{
-        margin-top: 10%;
+      
         margin-left: 10%;
         margin-right: 10%;
         
